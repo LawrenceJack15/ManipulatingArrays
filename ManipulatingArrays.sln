@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulatingArrays", "ManipulatingArrays\ManipulatingArrays.csproj", "{69AB7B32-2487-4C13-AAE0-08B5A6F343C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulatingArraysLieberry", "ManipulatingArraysLieberry\ManipulatingArraysLieberry.csproj", "{7A7E0DEC-7DD8-4FAB-ACB4-6343550B1293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69AB7B32-2487-4C13-AAE0-08B5A6F343C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69AB7B32-2487-4C13-AAE0-08B5A6F343C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69AB7B32-2487-4C13-AAE0-08B5A6F343C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69AB7B32-2487-4C13-AAE0-08B5A6F343C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A7E0DEC-7DD8-4FAB-ACB4-6343550B1293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A7E0DEC-7DD8-4FAB-ACB4-6343550B1293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A7E0DEC-7DD8-4FAB-ACB4-6343550B1293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A7E0DEC-7DD8-4FAB-ACB4-6343550B1293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D20F668-0712-4D38-9D03-C2EFE86ED03D}
+	EndGlobalSection
+EndGlobal
